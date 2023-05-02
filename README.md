@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on SIEM solutions<br>👯 I’m looking to collaborate on New tech<br>🤝 <br>🌱 I’m currently learning HTB<br>💬 Ask me about DevOps and Security Solutions<br>⚡ critical thinker and enthusiastic learner with a passion for technology
+🔭 I am a self-proclaimed technology guru who knows everything there is to know about buzzwords like CI/CD pipelines, WAF solutions, and multi-cloud environments. <br>😕I may not actually understand how any of it works, but I'm enthusiastic about pretending like I do. My idea of vulnerability assessments involves clicking random buttons and hoping for the best, and I like to use container technologies as makeshift paperweights. <br> 📖In my free time, I like to lecture my family members about the latest tech trends and boast about my non-existent expertise. <br>😁 Hire me if you want to add some chaos to your team.<br><br>Attention readers: The text is a satirical take on the original content 😜.
+
 
 
 ## 🌐 Socials:
